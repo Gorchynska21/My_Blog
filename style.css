@@ -1,0 +1,46 @@
+* {
+  margin: 0; 
+  padding: 0; 
+}
+
+body{
+  font-size: 15px; 
+}
+
+.container{
+  display: flex;
+ 
+}
+
+.header{
+  text-align: center;
+  background-color: rgb(235, 235, 116);
+  color: black; 
+  border: 1px white solid; 
+  padding: 10px; 
+}
+
+.sidebar{
+  background-color: rgb(235, 235, 116);
+   color: black; 
+   border: 1px white solid; 
+   padding: 25px; 
+}
+
+.main-area{
+  background-color: rgb(145, 145, 18);
+  color: black; 
+  border: 1px white solid; 
+  padding: 25px;
+}
+
+.main-area p{
+  margin: 10px; 
+}
+
+.bottom{
+  background-color: rgb(235, 235, 116);
+  color: black; 
+  border: 1px white solid; 
+  padding: 25px;
+}
